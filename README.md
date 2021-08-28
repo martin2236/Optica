@@ -1,1 +1,1 @@
- git push --set-upstream https://github.com/martin2236/Optica.git master
+https://martin2236.github.io/Optica/
